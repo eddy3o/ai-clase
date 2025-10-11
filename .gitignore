@@ -1,0 +1,103 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Machine Learning / Data Science
+*.csv
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.joblib
+*.model
+*.weights
+models/
+checkpoints/
+*.tfrecord
+*.ckpt
+
+# Data files (uncomment if you want to ignore data)
+# data/
+# datasets/
+# *.dat
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db
+.Spotlight-V100
+.Trashes
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# TensorFlow
+*.pb
+saved_model/
+
+# PyTorch
+*.pt
+*.pth
+
+# Misc
+.env
+.envrc
