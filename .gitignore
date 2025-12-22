@@ -7,3 +7,21 @@ animals-dataset
 *.rar
 sportimages
 *.h5
+
+# Carpeta de fine-tuning con modelos grandes
+merged_model/
+
+# Archivos de entrenamiento
+training_history.pkl
+training_results.png
+
+# Datasets y corpus
+corpus_enriquecido.json
+corpus_rag.json
+corpus_simple.json
+textos_planos.txt
+
+# Imágenes de prueba
+corrupted_images/
+*.jpg
+*.png
